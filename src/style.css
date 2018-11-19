@@ -1,0 +1,106 @@
+.table {
+    width: 684px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    margin: 0 auto;
+}
+
+.id {
+    width: 40px;
+    display: inline-block;
+    text-align: center;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.firstName {
+    width: 120px;
+    display: inline-block;
+    text-align: center;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.lastName {
+    width: 120px;
+    display: inline-block;
+    text-align: center;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.email {
+    width: 200px;
+    display: inline-block;
+    text-align: center;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.phone {
+    width: 200px;
+    display: inline-block;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.top {
+    font-weight: 900;
+    display: flex;
+}
+
+.wrap {
+    width: 684px;
+    margin: 0 auto;
+}
+.preloader {
+    width: 30px;
+    height: 30px;
+    margin: 0 600px;
+}
+
+.pagination__button {
+}
+
+.button-active {
+    background-color: blue;
+}
+
+.unsorted {
+    width: 10px;
+    color: lightgray;
+}
+
+.sorted-up {
+    color: black;
+}
+
+.sorted-down {
+    color: black;
+    display: inline-block;
+    transform: rotate(180deg);
+}
+
+.search-input {
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+}
+
+.search-button {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 26px;
+}
+
+.select-data {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.button-small-data {
+    margin-left: 10px;
+    margin-right: 40px;
+}
+
